@@ -1,0 +1,87 @@
+body {
+  background-color: #cdf0ea;
+}
+
+.info h1 {
+  color: #5e8b7e;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 2.5rem;
+}
+
+.info h1:hover {
+  color: lightgrey;
+}
+
+.info p,
+li {
+  color: #b2b8a3;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.3rem;
+  margin: 0 110px 0 0;
+}
+
+.profile img {
+  width: 250px;
+  margin-left: 400px;
+  border-radius: 15%;
+}
+
+table {
+  border-spacing: 50px;
+  margin-top: 50px;
+}
+
+.line {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightgrey;
+  border-width: 7px;
+  margin-top: 150px;
+  width: 15%;
+}
+
+.container {
+  margin: 150px 0 0 150px;
+}
+
+.social-media {
+  color: #b2b8a3;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.5rem;
+}
+
+footer {
+  background: #a7bbc7;
+  padding: 50px 0 70px 0;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.footer-row a {
+  display: block;
+  text-decoration: none;
+  color: #e1e5ea;
+  font-size: 1.2em;
+  font-family: "Brandon Grotesque Light";
+  font-weight: bold;
+}
+
+.block1 {
+  position: absolute;
+  display: inline-block;
+  left: 30%;
+}
+
+.block2 {
+  position: absolute;
+  display: inline-block;
+  left: 48%;
+}
+
+.block3 {
+  position: absolute;
+  display: inline-block;
+  right: 30%;
+}
